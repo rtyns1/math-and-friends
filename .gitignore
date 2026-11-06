@@ -1,0 +1,22 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# latexmk aux directory
+build/
+
+# OS junk
+Thumbs.db
+.DS_Store
